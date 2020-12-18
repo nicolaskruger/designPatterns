@@ -17,6 +17,7 @@
  * [Creational](#building_construction-Creational)
  # :building_construction: Creational
  his focues is how to intatiate an object or group of relates objects.
- * [Abstract Factory]()
+ * [Abstract Factory](#factory-Abstract-Factory)
+ ## :factory: Abstract Factory
  
  
