@@ -3,4 +3,4 @@
  <img src= "./assets/create/FactoryMethod.png">
 
 code is inside the folder `./src`
- * [main](https://github.com/nicolaskruger/designPatterns/blob/main)
+ * [main](https://github.com/nicolaskruger/designPatterns)
