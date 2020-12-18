@@ -18,7 +18,11 @@
  # :building_construction: Creational
  his focues is how to intatiate an object or group of relates objects.
  * [Abstract Factory](#factory-Abstract-Factory)
+ * [Factory Method](#bricks-Factory-Method)
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
  * [code](https://github.com/nicolaskruger/designPatterns/tree/abstractFactory)
+## 	:bricks: Factory Method
+ Factory Method switch operations depends on your concrete object, lets imagin two cereal brand sucrilhos end nescal, bouth have the same method cereal that gives the cereal, but each one gives a specrifica ceral, for that we create one abstracte class CeralBox that give the cereal with a function giveCereal, and this class have one abstract mathod that create the sereal. That abstract method need to be inplmentede for o concrete class.
+ <img src= "./assets/create/FactoryMethod.png">
