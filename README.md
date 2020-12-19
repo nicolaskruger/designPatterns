@@ -29,6 +29,7 @@
  
  * [Adapete](#electric_plugadapter)
  * [Bridged](#bridge_at_night-Bridge)
+ * [Composite](#deciduous_tree-Composite)
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
@@ -77,3 +78,7 @@ This pattern ensure that one class have only one instance.
  <img src= "./assets/structural/Bridge.png">
  
   * [code](https://github.com/nicolaskruger/designPatterns/tree/Bridge)
+  
+  ## :deciduous_tree: Composite
+  
+  This pattern allow you so store your's objects in tree extructure
