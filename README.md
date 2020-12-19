@@ -49,6 +49,8 @@ Builder is a design patern that allow you to buil complex objects step by step.
 
 ## :one: Singleton
 
-This pattern ensure that ono class have only one instance.
+This pattern ensure that one class have only one instance.
 
  <img src= "./assets/create/Singleton.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Singleton)
