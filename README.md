@@ -20,6 +20,8 @@
  * [Abstract Factory](#factory-Abstract-Factory)
  * [Factory Method](#bricks-Factory-Method)
  * [Builder](#houses-Builder)
+ * [Prototype](#robot-Prototype)
+ * [singleton](#one-Singleton)
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
@@ -44,3 +46,8 @@ Builder is a design patern that allow you to buil complex objects step by step.
  <img src= "./assets/create/Clone.png">
  
 * [code](https://github.com/nicolaskruger/designPatterns/tree/clone)
+
+## :one: Singleton
+
+This pattern ensure that ono class have only one instance.
+
