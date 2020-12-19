@@ -15,6 +15,7 @@
 * [NodeJS](https://nodejs.org/en/)
  ## :link: Types of Design Patterns
  * [Creational](#building_construction-Creational)
+ * [Structural](#classical_building-Structural)
  # :building_construction: Creational
  his focues is how to intatiate an object or group of relates objects.
  * [Abstract Factory](#factory-Abstract-Factory)
@@ -22,6 +23,9 @@
  * [Builder](#houses-Builder)
  * [Prototype](#robot-Prototype)
  * [Singleton](#one-Singleton)
+ # :classical_building: Structural
+ This kind of patter explain how to builde classes with big structures, but mainten this flexible and eficient
+ * [Adapete](#)
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
@@ -54,3 +58,10 @@ This pattern ensure that one class have only one instance.
  <img src= "./assets/create/Singleton.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Singleton)
+## :electric_plug:	Adapter
+
+ Allow objects with incompatible interfaces co-work toogeter.
+ 
+ <img src= "./assets/structural/Adapter.png">
+ 
+  * [code](https://github.com/nicolaskruger/designPatterns/tree/Adapter)
