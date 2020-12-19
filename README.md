@@ -75,3 +75,5 @@ This pattern ensure that one class have only one instance.
   
   
  <img src= "./assets/structural/Bridge.png">
+ 
+  * [code](https://github.com/nicolaskruger/designPatterns/tree/Bridge)
