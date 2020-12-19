@@ -37,3 +37,7 @@ Builder is a design patern that allow you to buil complex objects step by step.
  <img src= "./assets/create/Builder.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/builder)
+ 
+ ## :robot: Prototype
+ This pattern allow you to copy existing objects without make your code being dependent of yous classes.
+ 
