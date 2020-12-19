@@ -23,11 +23,12 @@
  * [Builder](#houses-Builder)
  * [Prototype](#robot-Prototype)
  * [Singleton](#one-Singleton)
+
  # :classical_building: Structural
  This kind of patter explain how to builde classes with big structures, but mainten this flexible and eficient
  
  * [Adapete](#electric_plugadapter)
- 
+ * [Bridged](#bridge_at_night-Bridge)
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
@@ -67,3 +68,10 @@ This pattern ensure that one class have only one instance.
  <img src= "./assets/structural/Adapter.png">
  
   * [code](https://github.com/nicolaskruger/designPatterns/tree/Adapter)
+  
+  ## :bridge_at_night: Bridge
+  
+  That patter allow you to split one big class or one arrange of classes in two diferents hierarchy.
+  
+  
+ <img src= "./assets/structural/Bridge.png">
