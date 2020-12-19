@@ -45,7 +45,7 @@ Builder is a design patern that allow you to buil complex objects step by step.
  
  <img src= "./assets/create/Clone.png">
  
-* [code](https://github.com/nicolaskruger/designPatterns/tree/clone)
+* [code](https://github.com/nicolaskruger/designPatterns/tree/Prototype)
 
 ## :one: Singleton
 
