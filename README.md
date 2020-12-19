@@ -5,5 +5,6 @@
   
    <img src= "./assets/structural/Composite.png">
    
+   code is inside the folder `./src`
 
 * [main](https://github.com/nicolaskruger/designPatterns)
