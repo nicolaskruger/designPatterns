@@ -1,7 +1,7 @@
 
 ## :one: Singleton
 
-This pattern ensure that ono class have only one instance.
+This pattern ensure that one class have only one instance.
 
 <img src= "./assets/create/Singleton.png">
 
