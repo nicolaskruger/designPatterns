@@ -60,7 +60,7 @@ This pattern ensure that one class have only one instance.
  <img src= "./assets/create/Singleton.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Singleton)
-## :electric_plug:	Adapter
+ ## :electric_plug:	Adapter
 
  Allow objects with incompatible interfaces co-work toogeter.
  
