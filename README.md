@@ -51,3 +51,4 @@ Builder is a design patern that allow you to buil complex objects step by step.
 
 This pattern ensure that ono class have only one instance.
 
+ <img src= "./assets/create/Singleton.png">
