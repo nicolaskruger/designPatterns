@@ -86,3 +86,11 @@ This pattern ensure that one class have only one instance.
    <img src= "./assets/structural/Composite.png">
    
    * [code](https://github.com/nicolaskruger/designPatterns/tree/Composite)
+
+## :dolls: Decorator
+
+This is a pattern that allow you add new behavior to objects when this are inside other object.
+
+   <img src= "./assets/structural/Decorator.png">
+   
+   * [code](https://github.com/nicolaskruger/designPatterns/tree/Decorator)
