@@ -39,7 +39,7 @@
  # :chains: behavioral
  
  * [Chain of Responsibility](#link-Chain-of-Responsibility)
- 
+ * [Command](#joystick-Command)
  This patter is linked to algorithms and delegate respnsability responsibility between objects
 
  
@@ -141,7 +141,7 @@ This is a pattern that allow you add new behavior to objects when this are insid
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Chain)
  
  
-  ## :keyboard: Command
+  ## :joystick: Command
  
  This pattern is used to uncouple GUI end the logic of the system
  
