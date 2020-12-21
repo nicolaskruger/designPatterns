@@ -32,6 +32,7 @@
  * [Composite](#deciduous_tree-Composite)
  * [Decorator](#dolls-Decorator)
  * [Facede](#classical_building-Facede)
+ * [Flyweight](#balance_scale-Flyweight)
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
@@ -104,3 +105,12 @@ This is a pattern that allow you add new behavior to objects when this are insid
   <img src= "./assets/structural/Facede.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Facede)
+ 
+ ## :balance_scale: Flyweight
+ 
+ This pattern allow you to put more objects on less RAM space. By sharyng the comun state of multiples objects.
+ 
+  <img src= "./assets/structural/Flyweight.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Flyweight)
+ 
