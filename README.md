@@ -37,10 +37,12 @@
  * [Proxy](#package-Proxy)
  
  # :chains: behavioral
- 
+
+ This patter is linked to algorithms and delegate respnsability responsibility between objects
+
+
  * [Chain of Responsibility](#link-Chain-of-Responsibility)
  * [Command](#joystick-Command)
- This patter is linked to algorithms and delegate respnsability responsibility between objects
 
  
  ## :factory: Abstract Factory
