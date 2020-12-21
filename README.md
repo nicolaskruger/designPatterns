@@ -33,6 +33,8 @@
  * [Decorator](#dolls-Decorator)
  * [Facede](#classical_building-Facede)
  * [Flyweight](#balance_scale-Flyweight)
+ * [Proxy](#package-Proxy)
+ 
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
@@ -113,4 +115,14 @@ This is a pattern that allow you add new behavior to objects when this are insid
   <img src= "./assets/structural/Flyweight.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Flyweight)
+  
+  ## :package: Proxy
+ 
+ This pattern allow you to do things before and/or after one request
+ 
+  <img src= "./assets/structural/Proxy.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Proxy)
+ 
+
  
