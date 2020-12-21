@@ -141,5 +141,13 @@ This is a pattern that allow you add new behavior to objects when this are insid
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Chain)
  
  
+  ## :keyboard: Command
+ 
+ This pattern is used to uncouple GUI end the logic of the system
+ 
+  <img src= "./assets/behavioral/Command.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Command)
+ 
 
  
