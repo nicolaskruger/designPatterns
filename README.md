@@ -16,6 +16,7 @@
  ## :link: Types of Design Patterns
  * [Creational](#building_construction-Creational)
  * [Structural](#classical_building-Structural)
+ * [Behavioral](#chains-behavioral)
  # :building_construction: Creational
  his focues is how to intatiate an object or group of relates objects.
  * [Abstract Factory](#factory-Abstract-Factory)
@@ -34,6 +35,13 @@
  * [Facede](#classical_building-Facede)
  * [Flyweight](#balance_scale-Flyweight)
  * [Proxy](#package-Proxy)
+ 
+ # :chains: behavioral
+ 
+ * [Chain of Responsibility](#link-Chain-of-Responsibility)
+ 
+ This patter is linked to algorithms and delegate respnsability responsibility between objects
+
  
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
@@ -123,6 +131,15 @@ This is a pattern that allow you add new behavior to objects when this are insid
   <img src= "./assets/structural/Proxy.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Proxy)
+ 
+ ## :link: Chain of Responsibility
+ 
+ This pattern allow a lot of objects to deal one request without couple the sender class to concrete destiny class. The chain could be composed dinamicaly in execution time.
+ 
+  <img src= "./assets/behavioral/Chain.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Chain)
+ 
  
 
  
