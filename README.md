@@ -43,7 +43,7 @@
 
  * [Chain of Responsibility](#link-Chain-of-Responsibility)
  * [Command](#joystick-Command)
-
+ * [Iterator](#walking_woman-Iterator)
  
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
@@ -151,5 +151,11 @@ This is a pattern that allow you add new behavior to objects when this are insid
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Command)
  
-
+## :walking_woman: Iterator
+ 
+ Allow you to go through elemets of one colection without show his representation
+ 
+   <img src= "./assets/behavioral/Iterator.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Iterator)
  
