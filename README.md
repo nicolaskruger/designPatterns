@@ -49,6 +49,7 @@
  * [Observer](#telescope-Observer)
  * [State](#traffic_light-State)
  * [Strategy](#golfing-Strategy)
+ * [Template Method](#bookmark_tabs-Template-Method)
 
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
@@ -198,13 +199,15 @@ This is a pattern that allow you add new behavior to objects when this are insid
 
  ## :golfing: Strategy
 
-  this pattern allow you to define one family of algoritms, put this classes sepatreted, and make this objects work together
+  this pattern allow you to define one family of algorithm, put this classes sepatreted, and make this objects work together
 
   <img src= "./assets/behavioral/Strategy.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Strategy)
 
 ## :bookmark_tabs: Template Method
+
+  This pattern define a template algorithm on superclass, and let the subclass to subscribe the steps.
 
 <img src= "./assets/behavioral/Template.png">
  
