@@ -5,4 +5,6 @@
 
 <img src= "./assets/behavioral/Template.png">
  
- * [code](https://github.com/nicolaskruger/designPatterns/tree/Template)
+  code is inside the folder `./src`
+ 
+  * [main](https://github.com/nicolaskruger/designPatterns)
