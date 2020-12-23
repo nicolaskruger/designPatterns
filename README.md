@@ -185,3 +185,13 @@ This is a pattern that allow you add new behavior to objects when this are insid
  <img src= "./assets/behavioral/Observer.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Observer)
+
+ ## :traffic_light:	State
+
+  This pattern change the behavior when change state
+
+  <img src= "./assets/behavioral/State.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/State)
+
+ 
