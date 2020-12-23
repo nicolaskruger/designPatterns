@@ -45,7 +45,7 @@
  * [Command](#joystick-Command)
  * [Iterator](#walking_woman-Iterator)
  * [Mediator](#vertical_traffic_light-Mediator)
- 
+ * [Memento](#camera-Memento)
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
 <img src= "./assets/create/AbstractFactory.png">
@@ -167,3 +167,13 @@ This is a pattern that allow you add new behavior to objects when this are insid
   <img src= "./assets/behavioral/Mediator.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Mediator)
+ 
+ ## :camera: Memento
+ 
+ This pattern allow you to store a stete of object.
+ 
+  <img src= "./assets/behavioral/Memento.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Memento)
+ 
+ 
