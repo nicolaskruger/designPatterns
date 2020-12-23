@@ -195,4 +195,11 @@ This is a pattern that allow you add new behavior to objects when this are insid
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/State)
 
+ ## :golfing: Strategy
+
+  this pattern allow you to define one family of algoritms, put this classes sepatreted, and make this objects work together
+
+  <img src= "./assets/behavioral/Strategy.png">
  
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Strategy)
+
