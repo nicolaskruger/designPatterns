@@ -204,3 +204,8 @@ This is a pattern that allow you add new behavior to objects when this are insid
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Strategy)
 
+## :bookmark_tabs: Template Method
+
+<img src= "./assets/behavioral/Template.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Template)
