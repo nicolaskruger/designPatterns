@@ -47,6 +47,7 @@
  * [Mediator](#vertical_traffic_light-Mediator)
  * [Memento](#camera-Memento)
  * [Observer](#telescope-Observer)
+ * [State](#traffic_light-State)
 
  ## :factory: Abstract Factory
  this pattern is responsable for create certan type of objects lets imgagin one veichle factory, this factory have two another factorys one create sportive vehicles another popular vehicles. 
