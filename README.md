@@ -212,3 +212,11 @@ This is a pattern that allow you add new behavior to objects when this are insid
 <img src= "./assets/behavioral/Template.png">
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Template)
+
+ ## :space_invader: Visitor
+
+ This pattern allow you to splite algorithms and objects
+
+ <img src= "./assets/behavioral/Visitor.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Visitor)
