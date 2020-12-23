@@ -176,4 +176,10 @@ This is a pattern that allow you add new behavior to objects when this are insid
  
  * [code](https://github.com/nicolaskruger/designPatterns/tree/Memento)
  
+ ## :telescope: Observer
  
+ This patter notify a list of objects about one event.
+ 
+ <img src= "./assets/behavioral/Observer.png">
+ 
+ * [code](https://github.com/nicolaskruger/designPatterns/tree/Observer)
