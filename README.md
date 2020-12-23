@@ -4,4 +4,6 @@
 
  <img src= "./assets/behavioral/Visitor.png">
  
- * [code](https://github.com/nicolaskruger/designPatterns/tree/Visitor)
+   code is inside the folder `./src`
+ 
+  * [main](https://github.com/nicolaskruger/designPatterns)
